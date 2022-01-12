@@ -1,1 +1,1 @@
-# [King-tut](next page.html)
+# [King-tut](./nextpage.html)

@@ -1,0 +1,55 @@
+body{
+    background-color:#00001a;
+    color:bisque;
+
+}
+h1{
+    border:1px solid;
+    width: 500px;
+    padding: 25px;
+    background-color:whitesmoke;
+    color: black;
+    border-color: black;
+    text-shadow: 0px 0px 5px yellow,0px -5px 5px orangered;
+    box-shadow: 10px 10px 5px #666666;
+}
+.link{
+    margin-left:50px;
+}
+a:link{
+    color:blueviolet;
+}
+a:visited{
+    color:brown;
+}
+a:hover{
+    color:cyan;
+}
+a:active{
+    color:blue;
+}
+.box{
+    color:beige;
+    font-family: Papyrus, fantasy; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+}
+.img1{
+    height: 250px;
+    width: 400px;
+    float: left;
+    margin-right: 15px;
+}
+.img2{
+    height: 250px;
+    width: 400px;
+    float: right;
+    margin-right: 20px;
+
+}
+.container{
+    background:gradient(red ,green);
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:1000px;
+
+}
